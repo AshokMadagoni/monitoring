@@ -5,3 +5,6 @@ p:first-of-type{
     background-color: blue;
     color: aliceblue;
 }
+body{
+    background-color: aqua;
+}
