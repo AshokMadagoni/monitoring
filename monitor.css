@@ -1,7 +1,7 @@
-p:first-of-type{
-    background-color: aqua;
-}
 /* p:first-of-type{
+    background-color: aqua;
+} */
+p:first-of-type{
     background-color: blue;
     color: aliceblue;
-} */
+}
